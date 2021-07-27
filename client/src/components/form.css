@@ -1,0 +1,14 @@
+.main-container {
+  width: 80%;
+  margin: auto;
+  border: 2px dotted black;
+  padding: 10px;
+}
+
+.head {
+  text-align: center;
+}
+
+.mr {
+  margin: 10px 0;
+}
